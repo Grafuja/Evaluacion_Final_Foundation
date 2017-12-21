@@ -1,0 +1,34 @@
+body {
+  overflow-x: hidden;
+}
+.favoritos{
+  width: 75%;
+  max-height: 129px;
+}
+.vertical-menu a{
+  border: 1px solid lightgrey;
+  margin: 1px;
+  border-radius: 2px;
+}
+
+.sidebar{
+  padding-left: 10px;
+}
+.comentarios{
+  border: 1px solid lightblue;
+  margin-bottom: 10px;
+  border-radius: 2px;
+}
+.imgcomentario{
+  margin: 0;
+  max-height: 15vh;
+}
+.torso{
+  max-width: 50px;
+}
+textarea{
+  height: auto;
+}
+.comentarea{
+  width: 100%;
+}
